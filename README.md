@@ -82,8 +82,9 @@
 ![uni-app](https://img.shields.io/badge/-Uniapp-333333?style=flat&logo=html5)
 
 ### 🤝🏻 &nbsp;Connect with Me
-
-<a href="mailto:648941183@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-black.liusheng@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:black.liusheng@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-black.liusheng@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<br />
+<a href="phone:18727873210"><img alt="WeChat" src="https://img.shields.io/badge/WeChat-18727873210-blue?style=flat-square&logo=wechat"></a>
 
 ### 🛳 &nbsp;Your ticket ID for this visit
 
