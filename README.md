@@ -38,7 +38,6 @@
       <td>导出微信的表情包</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/liusheng22/export-wechat-emoji?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/liusheng22/export-wechat-emoji?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/liusheng22/export-wechat-emoji?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/liusheng22/uniapp-video-player"><b>Uniapp Video Player</b></a></td>
@@ -73,6 +72,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-333333?style=flat&logo=nuxt)
+![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 ![uni-app](https://img.shields.io/badge/-Uniapp-333333?style=flat&logo=html5)
 
