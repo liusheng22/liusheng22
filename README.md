@@ -30,7 +30,6 @@
       <td><b>📝 Description</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
-      <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
@@ -43,31 +42,27 @@
     </tr>
     <tr>
       <td><a href="https://github.com/liusheng22/uniapp-video-player"><b>Uniapp Video Player</b></a></td>
-      <td>uni-app 视频播放器</td>
+      <td>uni-app(uniapp) 视频播放器</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/liusheng22/uniapp-video-player?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/liusheng22/uniapp-video-player?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/liusheng22/uniapp-video-player?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/liusheng22/uniapp-inject-loader"><b>Uniapp Inject Loader</b></a></td>
-      <td>uni-app 全局组件注入器</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/liusheng22/uniapp-inject-loader?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/liusheng22/uniapp-inject-loader?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/liusheng22/uniapp-inject-loader?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/liusheng22/uni-global-component-inject"><b>Uniapp Global Component</b></a></td>
+      <td>uni-app(uniapp) 全局组件注入</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/liusheng22/uni-global-component-inject?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/liusheng22/uni-global-component-inject?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/liusheng22/abc123-voice"><b>Learn ABC123 Voice</b></a></td>
       <td>语音学习 ABC123</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/liusheng22/abc123-voice?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/liusheng22/abc123-voice?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/liusheng22/abc123-voice?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/liusheng22/loveWall"><b>Love Wall</b></a></td>
       <td>微信表白墙</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/liusheng22/loveWall?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/liusheng22/loveWall?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/liusheng22/loveWall?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
